@@ -1,7 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Emmanuel Sofuwa",
-  "author1": "Emmanuel Sofuwa",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -11,6 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://idontknow/todo.git"
+    "url": "https://github.com/SOFSV12/Back-End-Development-and-APIs"
   }
 }
